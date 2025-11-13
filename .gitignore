@@ -1,0 +1,44 @@
+## Unity generated
+/[Ll]ibrary/
+/[Tt]emp/
+/[Oo]bj/
+/[Bb]uild/
+/[Bb]uilds/
+/[Ll]ogs/
+/UserSettings/
+/**/Library/
+/**/Temp/
+
+# Visual Studio / MonoDevelop
+*.userprefs
+*.csproj
+*.pidb
+*.suo
+*.sln.docstates
+*.user
+*.unityproj
+*.booproj
+*.svd
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# Unity3D generated meta files
+*.pidb.meta
+
+# JetBrains Rider
+.idea/
+
+# Package cache
+/Library/PackageCache/
+/Library/ScriptAssemblies/
+
+# Ignore node_modules if any
+node_modules/
+
+# Undo accidentally staged files
+.vscode/
+
+# Keep manifest.json tracked
+!Packages/manifest.json
